@@ -3,7 +3,7 @@
  * description: Parse srt subtitle content for next.
  * homepage: https://github.com/afeiship/next-srt
  * version: 1.0.0
- * date: 2020-11-25 16:00:33
+ * date: 2020-11-25 16:03:25
  * license: MIT
  */
 

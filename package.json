@@ -40,5 +40,18 @@
   "dependencies": {
     "@jswork/next-time2clock": "^1.0.2",
     "subtitle": "^4.0.1"
-  }
+  },
+  "keywords": [
+    "next",
+    "srt",
+    "subtitle",
+    "lrc",
+    "audio",
+    "video",
+    "title",
+    "parser",
+    "parse",
+    "music",
+    "movie"
+  ]
 }

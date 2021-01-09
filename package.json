@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-srt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse srt subtitle content for next.",
   "homepage": "https://github.com/afeiship/next-srt",
   "author": {

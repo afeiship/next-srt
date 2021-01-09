@@ -2,8 +2,8 @@
  * name: @jswork/next-srt
  * description: Parse srt subtitle content for next.
  * homepage: https://github.com/afeiship/next-srt
- * version: 1.0.0
- * date: 2020-11-25 16:03:25
+ * version: 1.0.1
+ * date: 2021-01-09 16:12:45
  * license: MIT
  */
 

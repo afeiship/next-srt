@@ -8,7 +8,7 @@
  */
 
 (function () {
-  var global = global || this || window || Function('return this')();
+  var global = typeof window !== 'undefined' ? window : this || Function('return this')();
   var nx = global.nx || require('@jswork/next');
   var parseSync = require('subtitle').parseSync;
   var time2clock = nx.time2clock || require('@jswork/next-time2clock');

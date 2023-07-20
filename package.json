@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-srt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Parse srt subtitle content for next.",
   "homepage": "https://js.work",
   "author": {
@@ -46,7 +46,20 @@
     "registry": "https://registry.npmjs.org"
   },
   "dependencies": {
-    "@jswork/next-time2clock": "^1.0.4",
+    "@jswork/next-time2clock": "^1.0.5",
     "subtitle": "^4.0.1"
-  }
+  },
+  "keywords": [
+    "next",
+    "srt",
+    "subtitle",
+    "lrc",
+    "audio",
+    "video",
+    "title",
+    "parser",
+    "parse",
+    "music",
+    "movie"
+  ]
 }
